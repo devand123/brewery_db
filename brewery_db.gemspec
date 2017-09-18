@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
 
   gem.required_ruby_version = '>= 1.9'
 
-  gem.add_dependency 'faraday', '~> 0.9.0'
+  gem.add_dependency 'faraday', '~> 0.9'
   gem.add_dependency 'faraday_middleware', '~> 0.8'
   gem.add_dependency 'hashie', '>= 1.1', '< 3'
   gem.add_development_dependency 'dotenv', '~> 0.10'
